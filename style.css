@@ -20,7 +20,7 @@ body {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
   line-height: 1.6;
   color: var(--text-medium);
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  background: linear-gradient(135deg, #1e40af 0%, #3b82f6 100%);
   min-height: 100vh;
   padding: 20px;
 }
@@ -353,7 +353,7 @@ h1 {
 
 /* Highlights */
 .highlights {
-  background: linear-gradient(135deg, var(--primary) 0%, #764ba2 100%);
+  background: linear-gradient(135deg, #1e40af 0%, #3b82f6 100%);
   margin-left: -60px;
   margin-right: -60px;
   padding: 40px 60px;
